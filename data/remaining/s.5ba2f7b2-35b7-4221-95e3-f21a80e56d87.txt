@@ -1,0 +1,9 @@
+version: 2.0.7
+server-time: 2016-03-17-06-41
+ip: 103.27.8.42
+country: IN, India
+hostname: proxy22.iitd.ac.in
+user_agent: mozilla/5.0 (windows nt 10.0; wow64) applewebkit/537.36 (khtml, like gecko) chrome/49.0.2623.87 safari/537.36
+browser_width: 1920
+browser_height: 1080
+user_time: Thu, 17 Mar 2016 06:41:24 GMT

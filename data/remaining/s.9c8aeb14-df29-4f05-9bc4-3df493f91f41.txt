@@ -1,0 +1,73 @@
+version: 2.0.7
+server-time: 2016-03-30-09-30
+ip: 103.27.8.44
+country: IN, India
+hostname: proxy62.iitd.ac.in
+user_agent: mozilla/5.0 (windows nt 10.0; wow64) applewebkit/537.36 (khtml, like gecko) chrome/49.0.2623.87 safari/537.36
+browser_width: 1366
+browser_height: 768
+user_time: Wed, 30 Mar 2016 08:29:57 GMT
+l: name
+stime: 2016-03-30-09-30
+t: textline
+a: Kshitij Rai
+l: entryno
+stime: 2016-03-30-09-30
+t: textline
+a: Yes. 2013BB50018
+l: age
+stime: 2016-03-30-09-30
+t: textline
+a: 19
+l: gender
+stime: 2016-03-30-09-30
+t: radio
+a: 1
+l: handedness
+stime: 2016-03-30-09-30
+t: radio
+a: 1
+l: eyesight
+stime: 2016-03-30-09-30
+t: radio
+a: 1
+l: category_experiment_1
+stime: 2016-03-30-09-37
+t: experiment
+l: confidence_1
+stime: 2016-03-30-09-37
+t: textline
+a: 5
+l: difficulty_1
+stime: 2016-03-30-09-38
+t: textline
+a: 7
+l: fatigue_1
+stime: 2016-03-30-09-38
+t: textline
+a: 5
+l: category_experiment_2
+stime: 2016-03-30-09-43
+t: experiment
+l: confidence_2
+stime: 2016-03-30-09-43
+t: textline
+a: 8
+l: difficulty_2
+stime: 2016-03-30-09-43
+t: textline
+a: 5
+l: fatigue_2
+stime: 2016-03-30-09-43
+t: textline
+a: 6
+l: test
+stime: 2016-03-30-09-45
+t: textline
+a: I think this study is trying to test how the brain makes associations and makes groupings based on patterns, and if there is continuous feedback on the performance, does the grouping power increase or not
+l: email
+stime: 2016-03-30-09-46
+t: textline
+a: yes. bb5130018@iitd.ac.in
+endcode: adHUztyQ
+end 2016-03-30-09-46

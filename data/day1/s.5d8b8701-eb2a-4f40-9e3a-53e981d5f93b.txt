@@ -1,0 +1,33 @@
+version: 2.0.7
+server-time: 2016-03-15-07-31
+ip: 103.27.8.44
+country: IN, India
+hostname: proxy62.iitd.ac.in
+user_agent: mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.36 (khtml, like gecko) chrome/33.0.1750.5 safari/537.36
+browser_width: 1366
+browser_height: 768
+user_time: Tue, 15 Mar 2016 07:31:56 GMT
+l: name
+stime: 2016-03-15-07-32
+t: textline
+a: Shubham Goel
+l: entryno
+stime: 2016-03-15-07-32
+t: textline
+a: 2014BB50013
+l: age
+stime: 2016-03-15-07-32
+t: textline
+a: 20
+l: gender
+stime: 2016-03-15-07-32
+t: radio
+a: 1
+l: handedness
+stime: 2016-03-15-07-32
+t: radio
+a: 2
+l: eyesight
+stime: 2016-03-15-07-32
+t: radio
+a: 2

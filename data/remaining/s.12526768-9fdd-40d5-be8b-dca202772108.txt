@@ -1,0 +1,73 @@
+version: 2.0.7
+server-time: 2016-03-16-08-30
+ip: 103.27.8.44
+country: IN, India
+hostname: proxy62.iitd.ac.in
+user_agent: mozilla/5.0 (windows nt 10.0; wow64) applewebkit/537.36 (khtml, like gecko) chrome/49.0.2623.87 safari/537.36
+browser_width: 1366
+browser_height: 768
+user_time: Wed, 16 Mar 2016 08:29:57 GMT
+l: name
+stime: 2016-03-16-08-31
+t: textline
+a: Sudhanshu Shekhar
+l: entryno
+stime: 2016-03-16-08-31
+t: textline
+a: Yes. 2013CH70183
+l: age
+stime: 2016-03-16-08-31
+t: textline
+a: 21
+l: gender
+stime: 2016-03-16-08-31
+t: radio
+a: 1
+l: handedness
+stime: 2016-03-16-08-31
+t: radio
+a: 2
+l: eyesight
+stime: 2016-03-16-08-31
+t: radio
+a: 1
+l: category_experiment_1
+stime: 2016-03-16-08-39
+t: experiment
+l: confidence_1
+stime: 2016-03-16-08-39
+t: textline
+a: 3
+l: difficulty_1
+stime: 2016-03-16-08-39
+t: textline
+a: 9
+l: fatigue_1
+stime: 2016-03-16-08-39
+t: textline
+a: 7
+l: category_experiment_2
+stime: 2016-03-16-08-46
+t: experiment
+l: confidence_2
+stime: 2016-03-16-08-46
+t: textline
+a: 5
+l: difficulty_2
+stime: 2016-03-16-08-46
+t: textline
+a: 8
+l: fatigue_2
+stime: 2016-03-16-08-47
+t: textline
+a: 7
+l: test
+stime: 2016-03-16-08-48
+t: textline
+a: It is to test how quick can a person's brain learn some patterns. It may reflect a person's IQ also. Also, it is to test that how quickly can brain adapt to completely new patterns.
+l: email
+stime: 2016-03-16-08-48
+t: textline
+a: Yes. shekhar.yuvraj29@gmail.com
+endcode: wsEXKMC4
+end 2016-03-16-08-48

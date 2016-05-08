@@ -1,0 +1,13 @@
+version: 2.0.7
+server-time: 2016-03-16-08-58
+ip: 103.27.8.42
+country: IN, India
+hostname: proxy22.iitd.ac.in
+user_agent: mozilla/5.0 (windows nt 6.3; wow64) applewebkit/537.36 (khtml, like gecko) chrome/49.0.2623.87 safari/537.36
+browser_width: 1920
+browser_height: 1080
+user_time: Wed, 16 Mar 2016 08:58:23 GMT
+l: name
+stime: 2016-03-16-08-58
+t: textline
+a: Waghmare Saurabh Milind

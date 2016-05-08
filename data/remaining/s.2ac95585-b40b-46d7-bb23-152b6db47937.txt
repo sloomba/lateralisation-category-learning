@@ -1,0 +1,33 @@
+version: 2.0.7
+server-time: 2016-03-16-14-20
+ip: 14.139.82.6
+country: IN, India
+hostname: 
+user_agent: mozilla/5.0 (macintosh; intel mac os x 10_10_3) applewebkit/537.36 (khtml, like gecko) chrome/49.0.2623.87 safari/537.36
+browser_width: 1440
+browser_height: 900
+user_time: Wed, 16 Mar 2016 14:21:01 GMT
+l: name
+stime: 2016-03-16-14-21
+t: textline
+a: Sindhu
+l: entryno
+stime: 2016-03-16-14-21
+t: textline
+a: No
+l: age
+stime: 2016-03-16-14-21
+t: textline
+a: 21
+l: gender
+stime: 2016-03-16-14-21
+t: radio
+a: 2
+l: handedness
+stime: 2016-03-16-14-21
+t: radio
+a: 2
+l: eyesight
+stime: 2016-03-16-14-21
+t: radio
+a: 2

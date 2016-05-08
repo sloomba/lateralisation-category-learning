@@ -1,0 +1,33 @@
+version: 2.0.7
+server-time: 2016-03-16-07-50
+ip: 103.27.8.42
+country: IN, India
+hostname: proxy22.iitd.ac.in
+user_agent: mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.36 (khtml, like gecko) chrome/33.0.1750.5 safari/537.36
+browser_width: 1366
+browser_height: 768
+user_time: Wed, 16 Mar 2016 07:50:10 GMT
+l: name
+stime: 2016-03-16-07-50
+t: textline
+a: Harsh Singh
+l: entryno
+stime: 2016-03-16-07-50
+t: textline
+a: 2009TT10790
+l: age
+stime: 2016-03-16-07-50
+t: textline
+a: 24
+l: gender
+stime: 2016-03-16-07-50
+t: radio
+a: 1
+l: handedness
+stime: 2016-03-16-07-51
+t: radio
+a: 1
+l: eyesight
+stime: 2016-03-16-07-51
+t: radio
+a: 2

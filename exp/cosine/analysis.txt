@@ -1,0 +1,899 @@
+Selecting subjects with confidence in exp1 no less than 0
+Initially 50 confident subjects are shortlisted
+Selecting subjects with probability of correct guess in exp1 no less than 0.5
+Ignoring HxMsmccS for poor accuracy
+Ignoring 4qTPXCpf for poor accuracy
+Ignoring XWmKJxSz for poor accuracy
+Optimization terminated successfully.
+         Current function value: 55.451774
+         Iterations: 82
+         Function evaluations: 187
+Optimization terminated successfully.
+         Current function value: 55.451774
+         Iterations: 80
+         Function evaluations: 184
+Optimization terminated successfully.
+         Current function value: 55.381700
+         Iterations: 70
+         Function evaluations: 155
+Optimization terminated successfully.
+         Current function value: 54.553330
+         Iterations: 58
+         Function evaluations: 142
+{(('l', 'e'), ('r', 'e')): [0.001195506937801839, 0.6871111243963235],
+ (('l', 'e'), ('r', 'p')): [0.0014552648350596453, 0.07384532988071363],
+ (('l', 'p'), ('r', 'e')): [0.0015031250000000084, -1.1546319456101637e-14],
+ (('l', 'p'), ('r', 'p')): [0.0015093750000000046, -3.819167204710541e-15]}
+***********
+Selecting ReheFLP5
+Ignoring ReheFLP5 ; penalise
+Ignoring 3pdUjUZc for poor accuracy
+Optimization terminated successfully.
+         Current function value: 54.758627
+         Iterations: 76
+         Function evaluations: 178
+Optimization terminated successfully.
+         Current function value: 54.758627
+         Iterations: 77
+         Function evaluations: 180
+Optimization terminated successfully.
+         Current function value: 53.354829
+         Iterations: 62
+         Function evaluations: 144
+Optimization terminated successfully.
+         Current function value: 54.351270
+         Iterations: 67
+         Function evaluations: 152
+{(('l', 'e'), ('r', 'e')): [0.0014143921107053785, 0.233715778589248],
+ (('l', 'e'), ('r', 'p')): [0.0012891606345307102, 0.42831935593858317],
+ (('l', 'p'), ('r', 'e')): [0.0015250000000000003, 4.796163466380681e-15],
+ (('l', 'p'), ('r', 'p')): [0.0015250000000000003, 4.796163466380681e-15]}
+***********
+Selecting Z9hpb9JA
+Ignoring Z9hpb9JA ; penalise
+Optimization terminated successfully.
+         Current function value: 55.314195
+         Iterations: 72
+         Function evaluations: 157
+Optimization terminated successfully.
+         Current function value: 55.451774
+         Iterations: 81
+         Function evaluations: 185
+Optimization terminated successfully.
+         Current function value: 54.432820
+         Iterations: 72
+         Function evaluations: 163
+Optimization terminated successfully.
+         Current function value: 55.183815
+         Iterations: 63
+         Function evaluations: 144
+{(('l', 'e'), ('r', 'e')): [0.0014318248867989066, 0.13634717464437848],
+ (('l', 'e'), ('r', 'p')): [0.0013228527525439874, 0.26054449491202747],
+ (('l', 'p'), ('r', 'e')): [0.0014999999999999918, 2.1804780203638094e-14],
+ (('l', 'p'), ('r', 'p')): [0.0014813274918124102, 0.08578251637518325]}
+***********
+Selecting r5nnCv5b
+Ignoring r5nnCv5b ; penalise
+Ignoring qBmvgXO3 for poor accuracy
+Ignoring 4yxfJ43y for poor accuracy
+Ignoring 8p4NvvYA for poor accuracy
+Optimization terminated successfully.
+         Current function value: 54.501443
+         Iterations: 61
+         Function evaluations: 143
+Optimization terminated successfully.
+         Current function value: 54.565345
+         Iterations: 65
+         Function evaluations: 150
+Optimization terminated successfully.
+         Current function value: 55.405519
+         Iterations: 63
+         Function evaluations: 144
+Optimization terminated successfully.
+         Current function value: 55.451774
+         Iterations: 82
+         Function evaluations: 186
+{(('l', 'e'), ('r', 'e')): [0.0015250000000002306, -4.556355293061646e-13],
+ (('l', 'e'), ('r', 'p')): [0.0015550637602806123, -0.09762752056121926],
+ (('l', 'p'), ('r', 'e')): [0.0013193296909448707, 0.3617312431102612],
+ (('l', 'p'), ('r', 'p')): [0.001387823629472407, 0.32357149105519006]}
+***********
+Selecting VMC5rK7f
+Ignoring VMC5rK7f ; penalise
+Ignoring wfPFPZVm for poor accuracy
+Optimization terminated successfully.
+         Current function value: 53.657266
+         Iterations: 70
+         Function evaluations: 152
+Optimization terminated successfully.
+         Current function value: 53.878157
+         Iterations: 65
+         Function evaluations: 146
+Optimization terminated successfully.
+         Current function value: 54.114525
+         Iterations: 62
+         Function evaluations: 145
+Optimization terminated successfully.
+         Current function value: 54.442315
+         Iterations: 60
+         Function evaluations: 129
+{(('l', 'e'), ('r', 'e')): [0.0012576665982447603, 0.5722430974557932],
+ (('l', 'e'), ('r', 'p')): [0.0012605843305587782, 0.4788313388824459],
+ (('l', 'p'), ('r', 'e')): [0.0011435254815966016, 0.716070985048986],
+ (('l', 'p'), ('r', 'p')): [0.0011946808099280142, 0.5574401379564726]}
+***********
+Selecting tBvEegQk
+Ignoring tBvEegQk ; penalise
+Optimization terminated successfully.
+         Current function value: 55.426599
+         Iterations: 83
+         Function evaluations: 176
+Optimization terminated successfully.
+         Current function value: 55.317751
+         Iterations: 64
+         Function evaluations: 148
+Optimization terminated successfully.
+         Current function value: 55.338100
+         Iterations: 69
+         Function evaluations: 156
+Optimization terminated successfully.
+         Current function value: 53.977323
+         Iterations: 55
+         Function evaluations: 128
+{(('l', 'e'), ('r', 'e')): [0.0010559821296483281, 0.9013169907033447],
+ (('l', 'e'), ('r', 'p')): [0.001493973040580775, 0.08706002235407966],
+ (('l', 'p'), ('r', 'e')): [0.001583163793385032, -0.12257758677005873],
+ (('l', 'p'), ('r', 'p')): [0.0015168561279773761, -0.033700048923499044]}
+***********
+Selecting adHUztyQ
+Ignoring adHUztyQ ; penalise
+Optimization terminated successfully.
+         Current function value: 55.376246
+         Iterations: 74
+         Function evaluations: 160
+Optimization terminated successfully.
+         Current function value: 55.451774
+         Iterations: 78
+         Function evaluations: 181
+Optimization terminated successfully.
+         Current function value: 54.540463
+         Iterations: 66
+         Function evaluations: 153
+Optimization terminated successfully.
+         Current function value: 54.666655
+         Iterations: 58
+         Function evaluations: 138
+{(('l', 'e'), ('r', 'e')): [0.001174308204837144, 0.752164840325713],
+ (('l', 'e'), ('r', 'p')): [0.0014003028839826611, 0.22439423203468253],
+ (('l', 'p'), ('r', 'e')): [0.0015000000000000018, 1.953992523340278e-15],
+ (('l', 'p'), ('r', 'p')): [0.0014761080101016006, 0.04856522979680366]}
+***********
+Selecting T5EF6TVg
+Ignoring T5EF6TVg ; penalise
+Optimization terminated successfully.
+         Current function value: 53.926837
+         Iterations: 64
+         Function evaluations: 150
+Optimization terminated successfully.
+         Current function value: 53.076446
+         Iterations: 71
+         Function evaluations: 158
+Optimization terminated successfully.
+         Current function value: 54.488982
+         Iterations: 69
+         Function evaluations: 157
+Optimization terminated successfully.
+         Current function value: 53.820382
+         Iterations: 66
+         Function evaluations: 151
+{(('l', 'e'), ('r', 'e')): [0.0010845347039401534, 0.740305592119694],
+ (('l', 'e'), ('r', 'p')): [0.0015567249296233095, -0.1384498592466127],
+ (('l', 'p'), ('r', 'e')): [0.0012020822077989592, 0.5458355844020837],
+ (('l', 'p'), ('r', 'p')): [0.0014064395025372533, 0.21212099492549824]}
+***********
+Selecting HPnjs56D
+Ignoring HPnjs56D ; penalise
+Optimization terminated successfully.
+         Current function value: 55.451774
+         Iterations: 79
+         Function evaluations: 182
+Optimization terminated successfully.
+         Current function value: 55.426126
+         Iterations: 70
+         Function evaluations: 158
+Optimization terminated successfully.
+         Current function value: 55.451770
+         Iterations: 64
+         Function evaluations: 146
+Optimization terminated successfully.
+         Current function value: 53.160382
+         Iterations: 68
+         Function evaluations: 155
+{(('l', 'e'), ('r', 'e')): [0.0008197621464729297, 1.4354757070541362],
+ (('l', 'e'), ('r', 'p')): [0.001518480393243957, 0.0009298385120919412],
+ (('l', 'p'), ('r', 'e')): [0.0015407178461551696, -0.056435692310334185],
+ (('l', 'p'), ('r', 'p')): [0.0015124999999999987, 7.638334409421085e-15]}
+***********
+Selecting gdevGueg
+Ignoring gdevGueg ; penalise
+Ignoring csrmDZJs for poor accuracy
+Ignoring Bz23eBmh for poor accuracy
+Optimization terminated successfully.
+         Current function value: 52.679186
+         Iterations: 80
+         Function evaluations: 185
+Optimization terminated successfully.
+         Current function value: 52.528684
+         Iterations: 70
+         Function evaluations: 148
+Optimization terminated successfully.
+         Current function value: 52.679186
+         Iterations: 83
+         Function evaluations: 190
+Optimization terminated successfully.
+         Current function value: 51.560146
+         Iterations: 65
+         Function evaluations: 150
+{(('l', 'e'), ('r', 'e')): [0.0011924877285026027, 0.6415870429947967],
+ (('l', 'e'), ('r', 'p')): [0.0015125000000000004, 4.0856207306205805e-15],
+ (('l', 'p'), ('r', 'e')): [0.0015745064884421507, -0.12401373982375034],
+ (('l', 'p'), ('r', 'p')): [0.0015242187500000004, 4.818367926873185e-15]}
+***********
+Selecting wsEXKMC4
+Ignoring wsEXKMC4 ; penalise
+Optimization terminated successfully.
+         Current function value: 55.451774
+         Iterations: 81
+         Function evaluations: 185
+Optimization terminated successfully.
+         Current function value: 55.119207
+         Iterations: 68
+         Function evaluations: 151
+Optimization terminated successfully.
+         Current function value: 55.451774
+         Iterations: 80
+         Function evaluations: 184
+Optimization terminated successfully.
+         Current function value: 52.795719
+         Iterations: 67
+         Function evaluations: 157
+{(('l', 'e'), ('r', 'e')): [0.0002957377433776829, 1.5553995132446303],
+ (('l', 'e'), ('r', 'p')): [0.001524999999999997, 1.1191048088221589e-14],
+ (('l', 'p'), ('r', 'e')): [0.0014451500117778806, 0.13469997644424364],
+ (('l', 'p'), ('r', 'p')): [0.0015187500000000075, -9.59232693276136e-15]}
+***********
+Selecting NwksKKbG
+Ignoring NwksKKbG ; penalise
+Optimization terminated successfully.
+         Current function value: 54.440749
+         Iterations: 69
+         Function evaluations: 154
+Optimization terminated successfully.
+         Current function value: 55.451774
+         Iterations: 82
+         Function evaluations: 186
+Optimization terminated successfully.
+         Current function value: 54.875232
+         Iterations: 63
+         Function evaluations: 138
+Optimization terminated successfully.
+         Current function value: 55.451774
+         Iterations: 79
+         Function evaluations: 183
+{(('l', 'e'), ('r', 'e')): [0.0015124999999999978, 9.769962616701387e-15],
+ (('l', 'e'), ('r', 'p')): [0.0014067949879383842, 0.15625554259304913],
+ (('l', 'p'), ('r', 'e')): [0.0015187500000000348, -6.41264819023491e-14],
+ (('l', 'p'), ('r', 'p')): [0.0014218040377862074, 0.1989700494275887]}
+***********
+Selecting pRwBRD9f
+Ignoring pRwBRD9f ; penalise
+Optimization terminated successfully.
+         Current function value: 55.347684
+         Iterations: 68
+         Function evaluations: 152
+Optimization terminated successfully.
+         Current function value: 55.404520
+         Iterations: 62
+         Function evaluations: 145
+Optimization terminated successfully.
+         Current function value: 54.863182
+         Iterations: 62
+         Function evaluations: 143
+Optimization terminated successfully.
+         Current function value: 54.059264
+         Iterations: 56
+         Function evaluations: 134
+{(('l', 'e'), ('r', 'e')): [0.0010550339251756673, 0.8524321496486661],
+ (('l', 'e'), ('r', 'p')): [0.0014035709321467975, 0.2616172909798473],
+ (('l', 'p'), ('r', 'e')): [0.0015354752302228036, -0.0960481166956025],
+ (('l', 'p'), ('r', 'p')): [0.001552557837963108, -0.09261567592620945]}
+***********
+Selecting TxBNm2x7
+Ignoring TxBNm2x7 ; penalise
+Ignoring 3O6M99YL for poor accuracy
+Ignoring mb3OHMVF for poor accuracy
+Optimization terminated successfully.
+         Current function value: 55.451774
+         Iterations: 76
+         Function evaluations: 178
+Optimization terminated successfully.
+         Current function value: 55.451774
+         Iterations: 82
+         Function evaluations: 188
+Optimization terminated successfully.
+         Current function value: 55.148767
+         Iterations: 75
+         Function evaluations: 151
+Optimization terminated successfully.
+         Current function value: 55.451774
+         Iterations: 80
+         Function evaluations: 184
+{(('l', 'e'), ('r', 'e')): [0.0015187499999999969, 1.1546319456101639e-14],
+ (('l', 'e'), ('r', 'p')): [0.0013293018966913242, 0.21639620661735448],
+ (('l', 'p'), ('r', 'e')): [0.0015125000000000026, 7.888609052210118e-31],
+ (('l', 'p'), ('r', 'p')): [0.0015249999999999999, 4.796163466380681e-15]}
+***********
+Selecting CGPXG7ap
+Ignoring CGPXG7ap ; penalise
+Ignoring FQVwvu6Q for poor accuracy
+Ignoring fyBQeFWX for poor accuracy
+Optimization terminated successfully.
+         Current function value: 54.100545
+         Iterations: 66
+         Function evaluations: 155
+Optimization terminated successfully.
+         Current function value: 53.860185
+         Iterations: 72
+         Function evaluations: 160
+Optimization terminated successfully.
+         Current function value: 54.577272
+         Iterations: 71
+         Function evaluations: 161
+Optimization terminated successfully.
+         Current function value: 53.461439
+         Iterations: 52
+         Function evaluations: 115
+{(('l', 'e'), ('r', 'e')): [0.001038913644247805, 1.0112146121391556],
+ (('l', 'e'), ('r', 'p')): [0.001327767038356983, 0.3948534965282243],
+ (('l', 'p'), ('r', 'e')): [0.0013172574520576765, 0.36704759588465047],
+ (('l', 'p'), ('r', 'p')): [0.0014353966619819413, 0.28858167603611923]}
+***********
+Selecting jgKBRPxs
+Ignoring jgKBRPxs ; penalise
+Optimization terminated successfully.
+         Current function value: 54.579792
+         Iterations: 68
+         Function evaluations: 155
+Optimization terminated successfully.
+         Current function value: 53.634746
+         Iterations: 63
+         Function evaluations: 141
+Optimization terminated successfully.
+         Current function value: 54.758627
+         Iterations: 77
+         Function evaluations: 179
+Optimization terminated successfully.
+         Current function value: 54.736550
+         Iterations: 61
+         Function evaluations: 142
+{(('l', 'e'), ('r', 'e')): [0.0015616882801057763, -0.09837350845373391],
+ (('l', 'e'), ('r', 'p')): [0.001518750000000014, -2.220446049250315e-14],
+ (('l', 'p'), ('r', 'e')): [0.0012578254839405428, 0.4253646571189159],
+ (('l', 'p'), ('r', 'p')): [0.001474286182224753, 0.10142763555049814]}
+***********
+Selecting W83kqPcq
+Ignoring W83kqPcq ; penalise
+Optimization terminated successfully.
+         Current function value: 54.758627
+         Iterations: 79
+         Function evaluations: 182
+Optimization terminated successfully.
+         Current function value: 54.758627
+         Iterations: 81
+         Function evaluations: 185
+Optimization terminated successfully.
+         Current function value: 54.758627
+         Iterations: 79
+         Function evaluations: 182
+Optimization terminated successfully.
+         Current function value: 54.758627
+         Iterations: 84
+         Function evaluations: 190
+{(('l', 'e'), ('r', 'e')): [0.0015249999999999958, 1.4033219031261992e-14],
+ (('l', 'e'), ('r', 'p')): [0.001512499999999997, 1.1191048088221589e-14],
+ (('l', 'p'), ('r', 'e')): [0.0014999999999999957, 1.4033219031261992e-14],
+ (('l', 'p'), ('r', 'p')): [0.0015249999999999834, 3.890221478286552e-14]}
+***********
+Selecting cYmxJzyf
+Ignoring cYmxJzyf ; penalise
+Ignoring 6mquqYHS for poor accuracy
+Optimization terminated successfully.
+         Current function value: 55.109626
+         Iterations: 72
+         Function evaluations: 160
+Optimization terminated successfully.
+         Current function value: 55.451774
+         Iterations: 83
+         Function evaluations: 188
+Optimization terminated successfully.
+         Current function value: 52.866801
+         Iterations: 69
+         Function evaluations: 159
+Optimization terminated successfully.
+         Current function value: 55.031278
+         Iterations: 65
+         Function evaluations: 149
+{(('l', 'e'), ('r', 'e')): [0.0013289547145599288, 0.36103283162233246],
+ (('l', 'e'), ('r', 'p')): [0.0011290937066078194, 0.7418125867843626],
+ (('l', 'p'), ('r', 'e')): [0.0015203125000000123, -1.9273471707492733e-14],
+ (('l', 'p'), ('r', 'p')): [0.001569812845997516, -0.16306319199502564]}
+***********
+Selecting dsPYV8DM
+Ignoring dsPYV8DM ; penalise
+Ignoring NDNdfJsV for poor accuracy
+Optimization terminated successfully.
+         Current function value: 55.451774
+         Iterations: 84
+         Function evaluations: 191
+Optimization terminated successfully.
+         Current function value: 55.451774
+         Iterations: 81
+         Function evaluations: 186
+Optimization terminated successfully.
+         Current function value: 55.451774
+         Iterations: 80
+         Function evaluations: 184
+Optimization terminated successfully.
+         Current function value: 54.952283
+         Iterations: 62
+         Function evaluations: 144
+{(('l', 'e'), ('r', 'e')): [0.001255903029465118, 0.48858456606976663],
+ (('l', 'e'), ('r', 'p')): [0.0015062500000000058, -5.861977570020831e-15],
+ (('l', 'p'), ('r', 'e')): [0.0015249999999999977, 9.769962616701387e-15],
+ (('l', 'p'), ('r', 'p')): [0.001509375000000005, -4.751754545395674e-15]}
+***********
+Selecting 7tN7yKpd
+Ignoring 7tN7yKpd ; penalise
+Ignoring 97Fzhg38 for poor accuracy
+Ignoring SbLwLeNP for poor accuracy
+Optimization terminated successfully.
+         Current function value: 54.172515
+         Iterations: 63
+         Function evaluations: 149
+Optimization terminated successfully.
+         Current function value: 54.233748
+         Iterations: 62
+         Function evaluations: 135
+Optimization terminated successfully.
+         Current function value: 54.944795
+         Iterations: 78
+         Function evaluations: 164
+Optimization terminated successfully.
+         Current function value: 55.296704
+         Iterations: 63
+         Function evaluations: 146
+{(('l', 'e'), ('r', 'e')): [0.0013621434450149556, 0.30071310997009204],
+ (('l', 'e'), ('r', 'p')): [0.0013641874017657992, 0.20130535317616927],
+ (('l', 'p'), ('r', 'e')): [0.0011985397268045755, 0.49451161847336983],
+ (('l', 'p'), ('r', 'p')): [0.0014181908592581776, 0.2886182814836498]}
+***********
+Selecting y85mA3dm
+Ignoring y85mA3dm ; penalise
+Ignoring bnzWSad7 for poor accuracy
+Optimization terminated successfully.
+         Current function value: 53.111390
+         Iterations: 63
+         Function evaluations: 144
+Optimization terminated successfully.
+         Current function value: 51.441131
+         Iterations: 70
+         Function evaluations: 158
+Optimization terminated successfully.
+         Current function value: 53.013732
+         Iterations: 66
+         Function evaluations: 150
+Optimization terminated successfully.
+         Current function value: 47.977231
+         Iterations: 64
+         Function evaluations: 147
+{(('l', 'e'), ('r', 'e')): [0.0004439536567777364, 2.061311436444516],
+ (('l', 'e'), ('r', 'p')): [0.0011901903688907645, 0.7321177363395663],
+ (('l', 'p'), ('r', 'e')): [0.0011337199568748485, 0.8325600862503053],
+ (('l', 'p'), ('r', 'p')): [0.0013200182862578022, 0.481844531000024]}
+***********
+Selecting aYCTgOM5
+Ignoring aYCTgOM5 ; penalise
+Optimization terminated successfully.
+         Current function value: 55.396731
+         Iterations: 70
+         Function evaluations: 159
+Optimization terminated successfully.
+         Current function value: 55.030669
+         Iterations: 68
+         Function evaluations: 156
+Optimization terminated successfully.
+         Current function value: 55.280398
+         Iterations: 75
+         Function evaluations: 165
+Optimization terminated successfully.
+         Current function value: 54.071669
+         Iterations: 60
+         Function evaluations: 132
+{(('l', 'e'), ('r', 'e')): [0.001199750695214608, 0.7523052501957859],
+ (('l', 'e'), ('r', 'p')): [0.001591818833455912, -0.15805172941181914],
+ (('l', 'p'), ('r', 'e')): [0.001312211316825416, 0.27567502259917015],
+ (('l', 'p'), ('r', 'p')): [0.0014502844691276578, 0.07443106174468916]}
+***********
+Selecting ZfQYNJJr
+Ignoring ZfQYNJJr ; penalise
+Ignoring NJhpqWK5 for poor accuracy
+Optimization terminated successfully.
+         Current function value: 55.451774
+         Iterations: 81
+         Function evaluations: 186
+Optimization terminated successfully.
+         Current function value: 55.451774
+         Iterations: 78
+         Function evaluations: 180
+Optimization terminated successfully.
+         Current function value: 55.221290
+         Iterations: 62
+         Function evaluations: 147
+Optimization terminated successfully.
+         Current function value: 53.580063
+         Iterations: 63
+         Function evaluations: 147
+{(('l', 'e'), ('r', 'e')): [0.0012433341856580243, 0.555519128683954],
+ (('l', 'e'), ('r', 'p')): [0.0015873998641967803, -0.1497997283935557],
+ (('l', 'p'), ('r', 'e')): [0.0015125000000000004, 4.796163466380681e-15],
+ (('l', 'p'), ('r', 'p')): [0.0015125000000000043, -3.907985046680554e-15]}
+***********
+Selecting q6EhTtfu
+Ignoring q6EhTtfu ; penalise
+Ignoring bQguv2et for poor accuracy
+Optimization terminated successfully.
+         Current function value: 54.758627
+         Iterations: 79
+         Function evaluations: 183
+Optimization terminated successfully.
+         Current function value: 54.758627
+         Iterations: 78
+         Function evaluations: 182
+Optimization terminated successfully.
+         Current function value: 54.757882
+         Iterations: 66
+         Function evaluations: 149
+Optimization terminated successfully.
+         Current function value: 54.752786
+         Iterations: 72
+         Function evaluations: 156
+{(('l', 'e'), ('r', 'e')): [0.001497939971083637, 0.05375232101632492],
+ (('l', 'e'), ('r', 'p')): [0.0015196356771513858, 0.009166145697235182],
+ (('l', 'p'), ('r', 'e')): [0.001525000000000006, -6.572520305780932e-15],
+ (('l', 'p'), ('r', 'p')): [0.0015, 4.796163466380681e-15]}
+***********
+Selecting 3WHJJyOT
+Ignoring 3WHJJyOT ; penalise
+Optimization terminated successfully.
+         Current function value: 55.451774
+         Iterations: 77
+         Function evaluations: 180
+Optimization terminated successfully.
+         Current function value: 55.101439
+         Iterations: 64
+         Function evaluations: 147
+Optimization terminated successfully.
+         Current function value: 55.451774
+         Iterations: 79
+         Function evaluations: 183
+Optimization terminated successfully.
+         Current function value: 55.395624
+         Iterations: 70
+         Function evaluations: 158
+{(('l', 'e'), ('r', 'e')): [0.0014256252884864834, 0.1987494230270379],
+ (('l', 'e'), ('r', 'p')): [0.0015242187500000017, 1.998401444325284e-15],
+ (('l', 'p'), ('r', 'e')): [0.0015861444532871277, -0.17228890657425033],
+ (('l', 'p'), ('r', 'p')): [0.0015250000000000007, 3.3750779948604797e-15]}
+***********
+Selecting OTSWthEu
+Ignoring OTSWthEu ; penalise
+Optimization terminated successfully.
+         Current function value: 53.060543
+         Iterations: 72
+         Function evaluations: 150
+Optimization terminated successfully.
+         Current function value: 54.868778
+         Iterations: 68
+         Function evaluations: 154
+Optimization terminated successfully.
+         Current function value: 50.654150
+         Iterations: 61
+         Function evaluations: 145
+Optimization terminated successfully.
+         Current function value: 52.723818
+         Iterations: 59
+         Function evaluations: 139
+{(('l', 'e'), ('r', 'e')): [0.0008564590685065917, 1.1901946559555652],
+ (('l', 'e'), ('r', 'p')): [0.0011132092714313336, 0.8234838008873335],
+ (('l', 'p'), ('r', 'e')): [0.0013950408398872263, 0.2228089452255511],
+ (('l', 'p'), ('r', 'p')): [0.0014182947674504268, 0.3615794104116501]}
+***********
+Selecting QsV3VyrA
+Ignoring QsV3VyrA ; penalise
+Ignoring PUeW7EQD for poor accuracy
+Optimization terminated successfully.
+         Current function value: 55.451774
+         Iterations: 78
+         Function evaluations: 182
+Optimization terminated successfully.
+         Current function value: 55.451774
+         Iterations: 75
+         Function evaluations: 175
+Optimization terminated successfully.
+         Current function value: 55.451774
+         Iterations: 80
+         Function evaluations: 184
+Optimization terminated successfully.
+         Current function value: 55.451774
+         Iterations: 77
+         Function evaluations: 180
+{(('l', 'e'), ('r', 'e')): [0.0015250000000000025, -1.7763568394002442e-16],
+ (('l', 'e'), ('r', 'p')): [0.0015249999999999973, 1.0125233984581437e-14],
+ (('l', 'p'), ('r', 'e')): [0.0014999999999996405, 7.238654120556027e-13],
+ (('l', 'p'), ('r', 'p')): [0.0015249999999999973, 1.0480505352461488e-14]}
+***********
+Selecting nR9nnC4r
+Ignoring nR9nnC4r ; penalise
+Ignoring PMRu75jM for poor accuracy
+Selected 27 rightly confident subjects for parameter estimation and computation
+{'3WHJJyOT': {'act_param': 0.5569620253164557,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.50387555680958174,
+                            (('l', 'e'), ('r', 'p')): 0.50085133532910009,
+                            (('l', 'p'), ('r', 'e')): 0.5,
+                            (('l', 'p'), ('r', 'p')): 0.50000000000000011},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.25105004811522996,
+                            (('l', 'e'), ('r', 'p')): 0.2497739572510499,
+                            (('l', 'p'), ('r', 'e')): 0.2495879973168574,
+                            (('l', 'p'), ('r', 'p')): 0.2495879973168627}},
+ '7tN7yKpd': {'act_param': 0.6,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.51723798400082743,
+                            (('l', 'e'), ('r', 'p')): 0.50000000000000022,
+                            (('l', 'p'), ('r', 'e')): 0.49999999999999983,
+                            (('l', 'p'), ('r', 'p')): 0.50000000000000022},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.35454480136120387,
+                            (('l', 'e'), ('r', 'p')): 0.21515173287959974,
+                            (('l', 'p'), ('r', 'e')): 0.2151517328795982,
+                            (('l', 'p'), ('r', 'p')): 0.2151517328795982}},
+ 'CGPXG7ap': {'act_param': 0.5875,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.50000000000000044,
+                            (('l', 'e'), ('r', 'p')): 0.50823262618070508,
+                            (('l', 'p'), ('r', 'e')): 0.5,
+                            (('l', 'p'), ('r', 'p')): 0.49999999999999989},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.22967783650817916,
+                            (('l', 'e'), ('r', 'p')): 0.3109664904754675,
+                            (('l', 'p'), ('r', 'e')): 0.2296778365081759,
+                            (('l', 'p'), ('r', 'p')): 0.22967783650817752}},
+ 'HPnjs56D': {'act_param': 0.5822784810126582,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.52838625973009701,
+                            (('l', 'e'), ('r', 'p')): 0.50905256940852905,
+                            (('l', 'p'), ('r', 'e')): 0.52644601751093001,
+                            (('l', 'p'), ('r', 'p')): 0.51670791825380313},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.22145241525589088,
+                            (('l', 'e'), ('r', 'p')): 0.11347786952618187,
+                            (('l', 'p'), ('r', 'e')): 0.4659804216984899,
+                            (('l', 'p'), ('r', 'p')): 0.1990892935194374}},
+ 'NwksKKbG': {'act_param': 0.7375,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.5619553248358955,
+                            (('l', 'e'), ('r', 'p')): 0.5,
+                            (('l', 'p'), ('r', 'e')): 0.49752605866468819,
+                            (('l', 'p'), ('r', 'p')): 0.49999999999999972},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.807506104259862,
+                            (('l', 'e'), ('r', 'p')): 0.056706849727011274,
+                            (('l', 'p'), ('r', 'e')): 0.07908019628611257,
+                            (('l', 'p'), ('r', 'p')): 0.056706849727014084}},
+ 'OTSWthEu': {'act_param': 0.525,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.50473983453922411,
+                            (('l', 'e'), ('r', 'p')): 0.50000000000000011,
+                            (('l', 'p'), ('r', 'e')): 0.50786542642382815,
+                            (('l', 'p'), ('r', 'p')): 0.50000000000000056},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.23624874689910272,
+                            (('l', 'e'), ('r', 'p')): 0.22334890121865447,
+                            (('l', 'p'), ('r', 'e')): 0.3170534506635834,
+                            (('l', 'p'), ('r', 'p')): 0.22334890121865925}},
+ 'QsV3VyrA': {'act_param': 0.6125,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.56138330209173826,
+                            (('l', 'e'), ('r', 'p')): 0.50484159249996252,
+                            (('l', 'p'), ('r', 'e')): 0.49613664216686326,
+                            (('l', 'p'), ('r', 'p')): 0.47464333287548388},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.10252865221443291,
+                            (('l', 'e'), ('r', 'p')): 0.8122518263825478,
+                            (('l', 'p'), ('r', 'e')): 0.012003307600928619,
+                            (('l', 'p'), ('r', 'p')): 0.07321621380209052}},
+ 'ReheFLP5': {'act_param': 0.65,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.52759919621097207,
+                            (('l', 'e'), ('r', 'p')): 0.50503544903256059,
+                            (('l', 'p'), ('r', 'e')): 0.50000000000000144,
+                            (('l', 'p'), ('r', 'p')): 0.50000000000000033},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.444214263374393,
+                            (('l', 'e'), ('r', 'p')): 0.1940152638156262,
+                            (('l', 'p'), ('r', 'e')): 0.18088523640498916,
+                            (('l', 'p'), ('r', 'p')): 0.1808852364049917}},
+ 'T5EF6TVg': {'act_param': 0.575,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.53755311051634824,
+                            (('l', 'e'), ('r', 'p')): 0.48710342080051705,
+                            (('l', 'p'), ('r', 'e')): 0.5,
+                            (('l', 'p'), ('r', 'p')): 0.49634463510787769},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.32442138997692627,
+                            (('l', 'e'), ('r', 'p')): 0.36805605828860505,
+                            (('l', 'p'), ('r', 'e')): 0.14795738356954333,
+                            (('l', 'p'), ('r', 'p')): 0.1595651681649254}},
+ 'TxBNm2x7': {'act_param': 0.6625,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.54115334148174632,
+                            (('l', 'e'), ('r', 'p')): 0.51594733837089402,
+                            (('l', 'p'), ('r', 'e')): 0.5011153782031661,
+                            (('l', 'p'), ('r', 'p')): 0.50226805898596105},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.5040956056323325,
+                            (('l', 'e'), ('r', 'p')): 0.22561895547178734,
+                            (('l', 'p'), ('r', 'e')): 0.131303238825,
+                            (('l', 'p'), ('r', 'p')): 0.1389822000708802}},
+ 'VMC5rK7f': {'act_param': 0.6375,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.50000000000001221,
+                            (('l', 'e'), ('r', 'p')): 0.50102465015032238,
+                            (('l', 'p'), ('r', 'e')): 0.51612214152558067,
+                            (('l', 'p'), ('r', 'p')): 0.50913316787059681},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.1416358517678491,
+                            (('l', 'e'), ('r', 'p')): 0.14834123698234583,
+                            (('l', 'p'), ('r', 'e')): 0.34367231512754426,
+                            (('l', 'p'), ('r', 'p')): 0.3663505961222607}},
+ 'W83kqPcq': {'act_param': 0.5189873417721519,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.5071165935793881,
+                            (('l', 'e'), ('r', 'p')): 0.50000000000000089,
+                            (('l', 'p'), ('r', 'e')): 0.53257802292862932,
+                            (('l', 'p'), ('r', 'p')): 0.50520318084945059},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.1624044538712252,
+                            (('l', 'e'), ('r', 'p')): 0.15885828212766273,
+                            (('l', 'p'), ('r', 'e')): 0.48877073635177354,
+                            (('l', 'p'), ('r', 'p')): 0.18996652764933863}},
+ 'Z9hpb9JA': {'act_param': 0.5189873417721519,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.50663214765719344,
+                            (('l', 'e'), ('r', 'p')): 0.49784417718764157,
+                            (('l', 'p'), ('r', 'e')): 0.50000000000000022,
+                            (('l', 'p'), ('r', 'p')): 0.50000000000000011},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.19843486672233876,
+                            (('l', 'e'), ('r', 'p')): 0.5374854540044707,
+                            (('l', 'p'), ('r', 'e')): 0.1320398396365953,
+                            (('l', 'p'), ('r', 'p')): 0.1320398396365953}},
+ 'ZfQYNJJr': {'act_param': 0.6125,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.54017132295483372,
+                            (('l', 'e'), ('r', 'p')): 0.50986053059824543,
+                            (('l', 'p'), ('r', 'e')): 0.51999954886215982,
+                            (('l', 'p'), ('r', 'p')): 0.50594012305554981},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.5134421154282743,
+                            (('l', 'e'), ('r', 'p')): 0.1533018968759765,
+                            (('l', 'p'), ('r', 'e')): 0.19679000500794766,
+                            (('l', 'p'), ('r', 'p')): 0.13646598268780144}},
+ 'aYCTgOM5': {'act_param': 0.5375,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.59099377667713338,
+                            (('l', 'e'), ('r', 'p')): 0.53164959429499226,
+                            (('l', 'p'), ('r', 'e')): 0.51784542531435351,
+                            (('l', 'p'), ('r', 'p')): 0.50500793186564497},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.9581335102444589,
+                            (('l', 'e'), ('r', 'p')): 0.006224457647699839,
+                            (('l', 'p'), ('r', 'e')): 0.02999670154286453,
+                            (('l', 'p'), ('r', 'p')): 0.005645330564976778}},
+ 'adHUztyQ': {'act_param': 0.675,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.5355326570507476,
+                            (('l', 'e'), ('r', 'p')): 0.49900101866784813,
+                            (('l', 'p'), ('r', 'e')): 0.50056130579243918,
+                            (('l', 'p'), ('r', 'p')): 0.49839825372192592},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.5704717292921613,
+                            (('l', 'e'), ('r', 'p')): 0.14630395772214813,
+                            (('l', 'p'), ('r', 'e')): 0.14931168963172547,
+                            (('l', 'p'), ('r', 'p')): 0.1339126233539651}},
+ 'cYmxJzyf': {'act_param': 0.5443037974683544,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.50000000000000022,
+                            (('l', 'e'), ('r', 'p')): 0.50000000000000022,
+                            (('l', 'p'), ('r', 'e')): 0.50000000000000022,
+                            (('l', 'p'), ('r', 'p')): 0.50000000000000056},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.24999999999999956,
+                            (('l', 'e'), ('r', 'p')): 0.24999999999999956,
+                            (('l', 'p'), ('r', 'e')): 0.25000000000000133,
+                            (('l', 'p'), ('r', 'p')): 0.24999999999999956}},
+ 'dsPYV8DM': {'act_param': 0.5125,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.51916127575306759,
+                            (('l', 'e'), ('r', 'p')): 0.52672658578696863,
+                            (('l', 'p'), ('r', 'e')): 0.50000000000000056,
+                            (('l', 'p'), ('r', 'p')): 0.50217467614777256},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.08856290201802586,
+                            (('l', 'e'), ('r', 'p')): 0.7713869142576796,
+                            (('l', 'p'), ('r', 'e')): 0.058161103665544146,
+                            (('l', 'p'), ('r', 'p')): 0.08188908005875031}},
+ 'gdevGueg': {'act_param': 0.7125,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.55417011829201956,
+                            (('l', 'e'), ('r', 'p')): 0.50002389063485198,
+                            (('l', 'p'), ('r', 'e')): 0.49698291341708478,
+                            (('l', 'p'), ('r', 'p')): 0.49999999999999944},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.7656942297877414,
+                            (('l', 'e'), ('r', 'p')): 0.07743160421749551,
+                            (('l', 'p'), ('r', 'e')): 0.07944291517742903,
+                            (('l', 'p'), ('r', 'p')): 0.07743125081733411}},
+ 'jgKBRPxs': {'act_param': 0.65,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.55258446087481794,
+                            (('l', 'e'), ('r', 'p')): 0.51610071711546668,
+                            (('l', 'p'), ('r', 'e')): 0.53649110413681078,
+                            (('l', 'p'), ('r', 'p')): 0.52579253754882516},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.3957938221459633,
+                            (('l', 'e'), ('r', 'p')): 0.129678795815326,
+                            (('l', 'p'), ('r', 'e')): 0.26564154614735563,
+                            (('l', 'p'), ('r', 'p')): 0.20888583589135518}},
+ 'nR9nnC4r': {'act_param': 0.5125,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.5,
+                            (('l', 'e'), ('r', 'p')): 0.50000000000000089,
+                            (('l', 'p'), ('r', 'e')): 0.50000000000001255,
+                            (('l', 'p'), ('r', 'p')): 0.50000000000000067},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.24999999999999692,
+                            (('l', 'e'), ('r', 'p')): 0.24999999999999337,
+                            (('l', 'p'), ('r', 'e')): 0.2500000000000058,
+                            (('l', 'p'), ('r', 'p')): 0.250000000000004}},
+ 'pRwBRD9f': {'act_param': 0.6375,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.50000000000000022,
+                            (('l', 'e'), ('r', 'p')): 0.50951634380348243,
+                            (('l', 'p'), ('r', 'e')): 0.50000000000000078,
+                            (('l', 'p'), ('r', 'p')): 0.50931813848465368},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.15317942931386602,
+                            (('l', 'e'), ('r', 'p')): 0.27263998735887135,
+                            (('l', 'p'), ('r', 'e')): 0.1531794293138682,
+                            (('l', 'p'), ('r', 'p')): 0.4210011540133944}},
+ 'q6EhTtfu': {'act_param': 0.65,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.53387282364088551,
+                            (('l', 'e'), ('r', 'p')): 0.50751272530761993,
+                            (('l', 'p'), ('r', 'e')): 0.50000000000000011,
+                            (('l', 'p'), ('r', 'p')): 0.50000000000000011},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.6660172783409986,
+                            (('l', 'e'), ('r', 'p')): 0.12903568004694646,
+                            (('l', 'p'), ('r', 'e')): 0.10247352080602824,
+                            (('l', 'p'), ('r', 'p')): 0.1024735208060268}},
+ 'r5nnCv5b': {'act_param': 0.525,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.5071877962715382,
+                            (('l', 'e'), ('r', 'p')): 0.48747637661064153,
+                            (('l', 'p'), ('r', 'e')): 0.50000000000000111,
+                            (('l', 'p'), ('r', 'p')): 0.49495694879952501},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.21000422418535145,
+                            (('l', 'e'), ('r', 'p')): 0.44502154329550975,
+                            (('l', 'p'), ('r', 'e')): 0.16064042846278934,
+                            (('l', 'p'), ('r', 'p')): 0.18433380405634933}},
+ 'tBvEegQk': {'act_param': 0.55,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.53828333275504681,
+                            (('l', 'e'), ('r', 'p')): 0.53147387977347782,
+                            (('l', 'p'), ('r', 'e')): 0.52740212466393177,
+                            (('l', 'p'), ('r', 'p')): 0.52026803228204277},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.1577691261014654,
+                            (('l', 'e'), ('r', 'p')): 0.21896718249412644,
+                            (('l', 'p'), ('r', 'e')): 0.2773527733379536,
+                            (('l', 'p'), ('r', 'p')): 0.3459109180664545}},
+ 'wsEXKMC4': {'act_param': 0.5657894736842105,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.53929891358921223,
+                            (('l', 'e'), ('r', 'p')): 0.50000000000000011,
+                            (('l', 'p'), ('r', 'e')): 0.50949191398578453,
+                            (('l', 'p'), ('r', 'p')): 0.50000000000000011},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.4919265436295297,
+                            (('l', 'e'), ('r', 'p')): 0.1606598547790251,
+                            (('l', 'p'), ('r', 'e')): 0.18675374681241885,
+                            (('l', 'p'), ('r', 'p')): 0.16065985477902625}},
+ 'y85mA3dm': {'act_param': 0.65,
+              'est_param': {(('l', 'e'), ('r', 'e')): 0.50165204238654826,
+                            (('l', 'e'), ('r', 'p')): 0.4901124629334741,
+                            (('l', 'p'), ('r', 'e')): 0.49022039730870015,
+                            (('l', 'p'), ('r', 'p')): 0.47899334780659364},
+              'hypo_prob': {(('l', 'e'), ('r', 'e')): 0.11912685319074255,
+                            (('l', 'e'), ('r', 'p')): 0.1693720219297823,
+                            (('l', 'p'), ('r', 'e')): 0.3448620470717781,
+                            (('l', 'p'), ('r', 'p')): 0.3666390778076971}}}
+{(('l', 'e'), ('r', 'e')): 7,
+ (('l', 'e'), ('r', 'p')): 3,
+ (('l', 'p'), ('r', 'e')): 0,
+ (('l', 'p'), ('r', 'p')): 0}
+{(('l', 'e'), ('r', 'e')): 0.6464536613512265,
+ (('l', 'e'), ('r', 'p')): 1.0924617206087015,
+ (('l', 'p'), ('r', 'e')): 1.3717459452039122,
+ (('l', 'p'), ('r', 'p')): 1.3093773301776948}
